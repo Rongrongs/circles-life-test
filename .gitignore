@@ -1,0 +1,12 @@
+# Object file
+*.o
+.vscode
+
+# Ada Library Information
+*.ali
+
+# Log file
+*.log
+
+# Python compiled file
+*.pyc
